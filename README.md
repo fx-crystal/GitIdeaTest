@@ -1,2 +1,3 @@
 # GitIdeaTest
 在idea上测试git的使用
+generatorSqlmapCustomer为mybatis的逆向代码生成工具
